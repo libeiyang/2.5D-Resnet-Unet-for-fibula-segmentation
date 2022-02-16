@@ -34,7 +34,9 @@ Section “Merge sagittal”, you can find how to combine the result of sagittal
 We used Average Dice loss and 3D Dice loss to evaluate our model. Function “evaluate” in section “final Dataloader for Sagittal” will tell you how to use these wo methods. We also visualized the dice scores of each CT slice. You can find it in the section “loss distribution axial”.   
 
 7.	Others  
-Other sections are as their name. Some sections are used for result visualization. Section “3D export” shows how to export the vtk or nii file. You can use ITK-SNAP or 3D slicer to check your result.  
+Other sections are as their name. Some sections are used for result visualization. Section “3D export” shows how to export the vtk or nii file. You can use ITK-SNAP or 3D slicer to check your result. Section “DA data” shows how to make data augmentation.  
 
+I think that is what I can explain. If you have some difficult, you need to learn more Deep learning knowledge, Python programming and Pytorch. Some basic CV knowledge is also needed. For the network part, please learn the website and source code clearly as I said before.  
 
-Hope this text can help you!
+Hope this text can help you!  
+  
