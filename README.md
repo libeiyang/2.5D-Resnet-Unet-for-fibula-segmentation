@@ -39,4 +39,5 @@ Other sections are as their name. Some sections are used for result visualizatio
 I think that is what I can explain. If you have some difficult, you need to learn more Deep learning knowledge, Python programming and Pytorch. Some basic CV knowledge is also needed. For the network part, please learn the website and source code clearly as I said before.  
 
 Hope this text can help you!  
+My Email address is lby980804@gmail.com
   
